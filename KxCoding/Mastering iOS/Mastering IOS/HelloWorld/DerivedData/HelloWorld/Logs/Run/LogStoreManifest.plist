@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>47A2879D-23CA-4C37-AE21-56206C9C5B9A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>47A2879D-23CA-4C37-AE21-56206C9C5B9A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run HelloWorld</string>
+			<key>timeStartedRecording</key>
+			<real>610120552.65209401</real>
+			<key>timeStoppedRecording</key>
+			<real>610120652.50057495</real>
+			<key>title</key>
+			<string>Run HelloWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>47A2879D-23CA-4C37-AE21-56206C9C5B9A</string>
+		</dict>
+		<key>BC82F849-4544-4096-82F2-C2C7D53D00E3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BC82F849-4544-4096-82F2-C2C7D53D00E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run HelloWorld</string>
+			<key>timeStartedRecording</key>
+			<real>610119752.896541</real>
+			<key>timeStoppedRecording</key>
+			<real>610119791.15681303</real>
+			<key>title</key>
+			<string>Run HelloWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>BC82F849-4544-4096-82F2-C2C7D53D00E3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

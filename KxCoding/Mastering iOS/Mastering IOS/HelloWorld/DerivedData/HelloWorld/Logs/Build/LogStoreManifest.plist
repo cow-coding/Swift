@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>52F29CC9-E1E3-4C63-974B-03C0828449C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>52F29CC9-E1E3-4C63-974B-03C0828449C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HelloWorld</string>
+			<key>timeStartedRecording</key>
+			<real>610119752.67634201</real>
+			<key>timeStoppedRecording</key>
+			<real>610119752.86454296</real>
+			<key>title</key>
+			<string>Build HelloWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>52F29CC9-E1E3-4C63-974B-03C0828449C2</string>
+		</dict>
+		<key>722C8DA2-B70E-4B7C-A93F-6456FADAA61F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>722C8DA2-B70E-4B7C-A93F-6456FADAA61F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HelloWorld</string>
+			<key>timeStartedRecording</key>
+			<real>610120552.60244596</real>
+			<key>timeStoppedRecording</key>
+			<real>610120552.64683998</real>
+			<key>title</key>
+			<string>Build HelloWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>722C8DA2-B70E-4B7C-A93F-6456FADAA61F</string>
+		</dict>
+		<key>7480F351-9C42-4A64-A856-E56BB1F03890</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7480F351-9C42-4A64-A856-E56BB1F03890.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HelloWorld</string>
+			<key>timeStartedRecording</key>
+			<real>610119721.75977397</real>
+			<key>timeStoppedRecording</key>
+			<real>610119733.87222695</real>
+			<key>title</key>
+			<string>Build HelloWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>7480F351-9C42-4A64-A856-E56BB1F03890</string>
+		</dict>
+		<key>B1E108E3-2651-4EB7-AAEE-21F28117FC53</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B1E108E3-2651-4EB7-AAEE-21F28117FC53.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HelloWorld</string>
+			<key>timeStartedRecording</key>
+			<real>610120530.95403099</real>
+			<key>timeStoppedRecording</key>
+			<real>610120534.364869</real>
+			<key>title</key>
+			<string>Build HelloWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>B1E108E3-2651-4EB7-AAEE-21F28117FC53</string>
+		</dict>
+		<key>FF83C059-46D3-42B4-BF9F-3F266A83E3DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF83C059-46D3-42B4-BF9F-3F266A83E3DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HelloWorld project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HelloWorld</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HelloWorld</string>
+			<key>timeStartedRecording</key>
+			<real>610119733.875067</real>
+			<key>timeStoppedRecording</key>
+			<real>610119750.92174697</real>
+			<key>title</key>
+			<string>Build HelloWorld</string>
+			<key>uniqueIdentifier</key>
+			<string>FF83C059-46D3-42B4-BF9F-3F266A83E3DE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
